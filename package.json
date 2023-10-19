@@ -1,6 +1,10 @@
 {
   "name": "amahirwe-server",
   "version": "1.0.0",
+  "engines": {
+    "node": ">14.0.0",
+    "npm": ">4.0.0"
+  },
   "description": "amahirwe is a web application that helps people to sell their and buy new and used things that should be used by others. this a server part",
   "main": "server.js",
   "repository": "https://github.com/Nide17/amahirwe-server.git",
